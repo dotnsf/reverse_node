@@ -1,0 +1,22 @@
+{
+    "name"         : "reverse_node",
+    "version"      : "1.0.0",
+    "description": "Node-RED's node which returns reversed string",
+    "main": "reverse.js",
+    "dependencies": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dotnsf/reverse_node.git"
+    },
+    "keywords": [
+      "reverse"
+    ],
+    "author": "K.Kimura <dotnsf@gmail.com> (https://github.com/dotnsf)",
+    "license": "MIT",
+    "homepage": "https://github.com/dotnsf/reverse_node",
+    "engines": {
+        "node": "4.x"
+    }
+}
+
